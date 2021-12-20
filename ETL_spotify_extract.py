@@ -15,7 +15,7 @@ import pandas as pd
 
 
 def extract_from_spotify():
-    TOKEN = "BQC9YvaW0tyavM7BPiMUkB162ZQfBw5uqGYNh9Jsh0DZb_JHB_TOOMWN6qPUGPw_Hbr0hyggb0omAdUAHh3yZMEyi89QXpuEW55Xa7kmsrFfaaDmjkFT29TLLDqzl1Xb-cZysqcNLZhg4vp8csVaLAj59RvbAqUEcOimiGNq"
+    TOKEN = "Your Token"
     base_url = "https://api.spotify.com/v1/me/player/recently-played"
 
     headers = {

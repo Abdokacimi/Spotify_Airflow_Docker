@@ -6,7 +6,7 @@ import ETL_spotify_transform as transform
 hostname = 'localhost'
 database = 'spotify'
 username = 'postgres'
-pwd = '365pass'
+pwd = ''
 port_id = 5432
 song_df = transform.song_df
 # ================= Loading stage !=======================
